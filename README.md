@@ -21,7 +21,7 @@ It provides clear KPIs, interactive filters, and visual charts to help track per
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshot.png)  
+![Dashboard Screenshot](saledashboard.png)  
 
 ---
 
