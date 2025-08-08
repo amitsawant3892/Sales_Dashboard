@@ -62,8 +62,6 @@ It provides clear KPIs, interactive filters, and visual charts to help track per
 ## 👨‍💻 Author
 **Amit Sawant**  
 📧 [amitsawant3892@gmail.com]  
-🔗 [LinkedIn Profile]
+🔗 [www.linkedin.com/in/amit-sawant-a96125272]
 
 ---
-Licensed under the MIT License – free to use and modify.
-
